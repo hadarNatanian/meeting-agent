@@ -3,4 +3,4 @@
     {"participant_id": "P001", "name": "יוסי לוי", "role": "מפתח Backend"}
   ],
   "meetings": [
-    {"meeting_id": "M001", "topic_id": "T002", "date": "2026-09-14"
+    {"meeting_id": "M001", "topic_id": "T002", "date": "2026-09-14"}]}
